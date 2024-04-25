@@ -34,7 +34,7 @@ body {
 }
 
 .default-line-color {
-  background: theme("colors.system.purple50");
+  background: theme("colors.system.slate50");
 }
 
 .change-line-color {

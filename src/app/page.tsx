@@ -79,7 +79,7 @@ export default function Home() {
             </div>
 
             <div className="hidden sm:flex absolute top-[120%] left-0 w-full">
-              <div className="flex w-full text-gray-400 p-4 rounded border border-system-purple20 bg-system-purple80 bg-opacity-10 gap-6">
+              <div className="flex w-full text-gray-400 p-4 rounded border border-system-slate20 bg-system-slate80 bg-opacity-10 gap-6">
                 <div className="flex flex-col items-start justify-start w-3/4">
                   <h3 className="text-lg">
                     {sortingAlgorithmsData[selectedAlgorithm].title}
